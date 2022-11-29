@@ -100,7 +100,7 @@ font-size: 20px;margin-left: 540px;margin-top: -32px;}
 margin-left: 610px;margin-top: -33px;}
 .sejanosso{color: rgb(0, 255, 8); font-size: 20px;
 margin-left: 740px;margin-top: -32px;}
-.img{width: 1338px;
+.img{width: 1347px;
   background-image: url(imgs/2-8.png);
   margin-top: -80px;
 height: 350px;margin-left: 2px; background-position: center center ;}
@@ -116,3 +116,45 @@ height: 150px; margin-left: 20px;}
 font-size: 15px;margin-left: 250px;margin-top: -50px;margin-right: 400px;}
 .revisão{font-size: 15px; color: white;margin-left: 470px;margin-top: -40px;margin-right: 400px;}
 .supensao{color: white; font-size: 15px; margin-left: 680px;margin-top: -40px;}
+
+.margin{margin-left: 480px;margin-top: -20px;padding-bottom: 100px;padding-top: 40px;width: 100%vh;}
+.width{ width: 800px; margin-left: 300px;}
+.colo{ color: rgba(255, 250, 247, 0.872); margin-left: 200px; margin-top: 90px;font-size: 48px; }
+.imga2{
+  width: 190px; margin-left: 880px; margin-top: -290px;
+}
+.buttom{background-color: aqua; border-radius: 90px; ;  font-size: 18px; margin-left: 200px; margin-bottom: 8px;padding: 10px;}
+.col2{color: rgb(255, 255, 255); margin-left: 30px ; padding-top: 200px;margin-top: 40px;}
+.agendar{background-color: blue; background-image: url(imgs/1639-Recuperado.png); background-size: cover;  background-position: right center; height: 500px;}
+.paragrafo{color: white; margin-left: 200px;  }
+.oficina{color: white; font-size:15px ; margin-left: 880px;margin-top: -280px;padding-bottom: 300px;margin-bottom: -156px;}
+.background{ background-color: rgba(7, 101, 7, 0.724); box-shadow: 2px 3px 3px 2px;}
+.background3{background-color: white;}
+.te{ margin-top: -390px;}
+.redess{ color: white; margin-left: 200px; padding-top: 100px;}
+.whats{width: 210px; margin-left: -100px;}
+.ajudar{color: white; margin-left: 0px;}
+.social{border: 2px solid green;  margin-right: 800px; background-color: green;margin-left: 50px; border-radius: 30px;padding: 30px;}
+.mr{background-color:rgb(199, 195, 190);}
+ .in{padding-top: 40px;}
+ .button{ background-color: white; color: green; border-radius: 40px;margin-top: 8px; border-color: green;}
+ .social1{border: 2px solid rgb(174, 87, 255);  margin-right: 400px; background-color:rgb(174, 87, 255) ;margin-left: 400px; border-radius: 30px;padding: 15px;margin-top: -430px;}
+ .ajudar1{color: aliceblue; font-size: 30px;}
+.insta{width: 210px; padding-left: -300px;}
+.width1{width: 400px;margin-left: 680px;margin-top: -180px;padding-bottom: 30px; }
+.comunidade{ color: rgb(255, 255, 255);padding-top: 70px; margin-left: 250px; font-size: 50px;margin-bottom: 6px;}
+.comub{background-color: #ff0000;;padding-bottom:200px;height: 450px;}
+.PIR{padding-left: 30%; padding-top: 30px; border: 1px solid gold;margin-right: 30%;margin-left: 20%; background-color: grey;margin-top: 2%;margin-bottom: 3%;}
+.auto{width: 15%; border-radius: 20%;padding-top: 50%;}
+.box{color: white;font-size: 1.5em;padding-left: 18%;margin-top: -6em;}
+.telef{color: white;padding-left: 17%;}
+.telef1{color: white; padding-left: 17%;margin-top: -1em;}
+.ende{padding-left: 16%; color: white;margin-top: -1em;}
+.py{background-color: #f506064b; width: 100%;height:4290px}
+.formulario{ justify-content: center; justify-items: center; text-align: center; color: white; border: 2px solid black; background-color: rgb(254, 0, 0); width: 40%; margin-left: 400px;}
+.cada{display: inline-flex;
+ color: white; gap: 40px; padding-left: 500px;}
+ a{text-decoration: none; color: white;}
+ .esque{font-size: 20px; text-align:flex-start;margin-left: -300px;padding-top: 40px;}
+ .log{font-size: 20px; text-align: end; margin-top: -35px;}
+ .colir{background-color: black; height: 400px;}

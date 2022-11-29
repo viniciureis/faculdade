@@ -1,0 +1,8 @@
+font-family: sans-serif;
+-webkit-text-size-adjust: 100%;
+-webkit-tap-highlight-color: rgba(0,0,0,0);
+font-size: 100%;
+--wp-admin-theme-color: #007cba;
+--wp-admin-theme-color-darker-10: #006ba1;
+--wp-admin-theme-color-darker-20: #005a87;
+box-sizing: border-box;
